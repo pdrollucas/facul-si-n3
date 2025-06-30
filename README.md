@@ -2,6 +2,8 @@
 
 Sistema web para gerenciamento de relatórios de despesas com assinaturas digitais, desenvolvido com Next.js, TypeScript e MongoDB.
 
+Alunos: Pedro Lucas Luckow e André Estevão
+
 ## 🚀 Requisitos
 
 - Node.js 18+ 
